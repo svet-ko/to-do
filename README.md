@@ -8,3 +8,5 @@ Technologies:
 - Javascript
 - Bootstrap
 - local storage
+
+Try TODO on Github pages: [https://svet-ko.github.io/to-do/](https://svet-ko.github.io/to-do/)
